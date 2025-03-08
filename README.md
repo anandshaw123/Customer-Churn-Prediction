@@ -2,6 +2,12 @@
 
 
 
+![Customer-Churn-Prediction](https://github.com/user-attachments/assets/60915fc4-db38-44a9-8962-2bfa7c397c6d)
+
+
+
+
+
 
 ## **Objective**
 The primary objective of this project was to analyze **Customer churn** and find which **churn's** are active or not and build **ML Model** to derive actionable insights and provide data-driven recommendations. The project involved several key phases: **Exploratory Data Analysis (EDA)** , **Feature Engineering & Modelling** , and **Findings & Recommendations.**
