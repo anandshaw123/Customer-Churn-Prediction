@@ -24,7 +24,9 @@ The primary objective of this project was to analyze **Customer churn** and find
 
 **Matplotlib and Seaborn:** For data visualization.
 
-**Scikit-Learn:** For machine learning algorithms and model evaluation.
+**Scikit-Learn:** Importing the libraries for build Machine Learning model.
+
+**Machine Learning** Using Machine Learning Algorithm to Build Prediction model.
 
 
 ## **Insights**
