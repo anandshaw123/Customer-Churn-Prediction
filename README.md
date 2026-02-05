@@ -29,6 +29,95 @@ The primary objective of this project was to analyze **Customer churn** and find
 **Machine Learning** Using Machine Learning Algorithm to Build Prediction model.
 
 
+```
+├── data/
+│   ├── Client_Data/
+│   └── Price_Data/
+|
+|
+├── notebooks/
+│   ├── Churn_Prediction_Model.ipynb/
+|
+|
+├── Exploratory_Data_Analysis_(EDA)/
+│   ├── Data_quality_checks/
+│   └── Missing_Values/
+│   ├── Duplicates/
+│   └── Univariate_Analysis/
+│   ├── Churn_distribution/
+│   └── Customer_business_split/
+│   ├── Bivariate/Multivariate Analysis/
+│   └── Tenure_vs_Churn/
+│   ├── Monthly_charges_vs_Churn/
+│   └── Customer_business_split/
+│   ├── Contract_type_vs_Churn/
+│   └── Customer_business_split/
+|
+|
+├── Data_Preprocessing/
+│   ├── Handling_missing_values/
+│   └── Encoding_categorical_variables/
+│   ├── Label_Encoding/One-Hot_Encoding/
+│   └── Feature_scaling/
+│   ├── StandardScaler/MinMaxScaler/
+│   └── Train-Test_Split/
+│   ├── (80%-train,20%-test)/
+│   └── Class-imbalance-handling/
+|
+|
+├── Feature-Engineering/
+|   ├── Tenure-grouping-(New-/-Medium-/-Loyal-customers)/
+│   ├── Monthly-to-total-charges-ratio/
+│   └── Binary_flags_for_high-risk_customers/
+│   ├── Feature selection/
+│   └── Correlation_analysis/
+│   ├── Importance_from_tree-based_models/
+|
+|
+├── Model-Building/
+│   ├── Baseline-Model/
+│   └── Logistic-Regression/
+│   ├── Machine_Learning_Models/
+│   └── Decision_Tree/
+│   ├── Random_Forest/
+│   └── XGBoost/Gradient_Boosting/
+│   ├── Hyperparameter_tuning/
+│   └── GridSearchCV/RandomizedSearchCV/
+|
+|
+├── Model_Evaluation/
+│   ├── Evaluation_Metrics/
+│   └── Accuracy/
+│   ├── Precision/
+│   └── Recall/
+│   ├── F1_Score/
+│   ├── Confusion_Matrix/
+│   └── Business-focused-evaluation/
+|
+|
+├── Tools/
+│   ├── Programming:Python/
+│   └── Advance_Machine_Learning/
+|
+├── Libraries/
+│   ├── Programming:Python/
+│   └── Advance_Machine_Learning/
+│   ├── Pandas/
+│   └── NumPy/
+│   ├── Matplotlib/
+│   └── Seaborn/
+│   ├── Scikit_learn/
+│   └── XGBoost/
+│   ├── Jupyter-Notebook/
+```
+
+
+
+
+
+
+
+
 ## **Insights**
 #### Through comprehensive exploratory data analysis and modeling, several key insights were uncovered:
 
